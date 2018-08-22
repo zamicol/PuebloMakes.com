@@ -37,4 +37,8 @@ footer p {
 	margin-bottom: .25rem;
 }
 
+card {
+	margin:10 px;
+}
+
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
