@@ -66,4 +66,7 @@ card {
 	margin:10 px;
 }
 
-.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+.blue{
+	background-color: #0066ff;
+	color:#ffffff;
+}
