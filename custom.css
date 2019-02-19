@@ -50,3 +50,23 @@ card {
 	background-color: #0066ff;
 	color:#ffffff;
 }
+
+
+
+
+
+
+/********************
+ Item Styles
+ */
+
+ .tag{
+	border-radius: 4px;
+	background: #1a75ff;
+	color:white;
+	padding: 3px; 
+	margin-left:5px;
+}
+
+
+ // 1800-8673168 #519
