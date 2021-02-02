@@ -1,5 +1,7 @@
 # PuebloMakes.com
 
+See https://pueblomakes.com
+
 
 - Gilab hosting is under https://zamicol.gitlab.io/PuebloMakes.com
 - Uses Gitlab pages for hosting
