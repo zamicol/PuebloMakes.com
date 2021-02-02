@@ -2,6 +2,8 @@
 
 See https://pueblomakes.com
 
+On github, the page is: https://zamicol.github.io/PuebloMakes.com/index.html
+
 
 - Gilab hosting is under https://zamicol.gitlab.io/PuebloMakes.com
 - Uses Gitlab pages for hosting
